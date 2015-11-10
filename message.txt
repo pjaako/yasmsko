@@ -1,0 +1,1 @@
+Hi this is a sample text message, its longer than 70 symbols and it contains both Latin and Cyrillic symbols. Привет, я смско!
